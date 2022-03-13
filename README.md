@@ -10,4 +10,7 @@ Where black points are determined to be within the vertices and gray points are 
 
 2) Used OpenCV to analyze Drosophila Motion as a means of detecting mating to improve efficiency in a study on gamete interactions (Yasir-Ahmed Braimah Lab). 
 
+![motiondetect](https://user-images.githubusercontent.com/79488137/158081278-75919f6f-0460-46c7-aa13-4ab2e43f1889.PNG)
+
+Extending this algorithm a bit further, the group was able to analyze hours of video footage consisting of 50+ petri dishes autonomously in just 10-15 minutes. 
 
