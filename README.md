@@ -1,3 +1,3 @@
 # su-computer-vision
 
-An algorithm I developed to analyze gamete interactions using Drosophila at the Syracuse University Bioinformatics Research Group. 
+Some cool work I did under a mentor in the Syracuse University Bioinformatics Research Group.
