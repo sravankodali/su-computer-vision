@@ -8,7 +8,7 @@ Some cool work I did under a mentor in the Syracuse University Bioinformatics Re
 
 Points determined to lie within the inputted vertices (based on longitude and latitude values) are colored black, and those that lay outside the constructed boundary are colored grey. The program can calculate the average distance to a specified order of magnitude with time complexity O(N^2). 
 
-2) Used OpenCV to analyze Drosophila Motion as a means of detecting mating to improve efficiency in a study on gamete interactions (Yasir-Ahmed Braimah Lab). 
+2) Used OpenCV to analyze Drosophila motion as a means of detecting mating to improve efficiency in a study on gamete interactions (Yasir-Ahmed Braimah Lab). 
 
 ![motiondetect](https://user-images.githubusercontent.com/79488137/158081278-75919f6f-0460-46c7-aa13-4ab2e43f1889.PNG)
 
